@@ -1,2 +1,2 @@
 # hacker-rank
-HackerRank exercises
+HackerRank exercises that I've completed.
